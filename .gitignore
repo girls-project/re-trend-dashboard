@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/store.csv
+data/latest.json
+data/all_latest.next.json
